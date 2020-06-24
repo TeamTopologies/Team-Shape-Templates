@@ -10,7 +10,22 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 ## draw.io / diagrams.net
 
-TBC
+See TeamTopologies.xml in the diagrams.net folder
+
+### Currently supported
+
+* All shapes and X-As-A-Service Interaction
+
+### TODO
+
+* Collaborate and Facilitate Interaction
+
+### Usage
+
+* Download the TeamToplogies.xml
+* File -> Open Library from -> Device
+* Select the TeamTopologies.xml
+
 
 ## Google Slides
 
