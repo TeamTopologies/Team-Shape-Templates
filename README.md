@@ -26,7 +26,7 @@ See TeamTopologies.xml in the diagrams.net folder
 * File -> Open Library from -> Device
 * Select the TeamTopologies.xml
 
-## Google Draw . Google Slides
+## Google Draw / Google Slides
 
 Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/edit?usp=sharing> and select _File_ > _Make a copy_
 
