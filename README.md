@@ -28,7 +28,9 @@ See TeamTopologies.xml in the diagrams.net folder
 
 ## Google Draw
 
-Copy the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/edit?usp=sharing>
+Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/edit?usp=sharing> and select _File_ > _Make a copy_
+
+Then copy/paste the shapes as needed into Google Draw and Google Slides.
 
 ## Google Slides
 
