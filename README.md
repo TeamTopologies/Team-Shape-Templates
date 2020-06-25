@@ -10,21 +10,26 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 ## draw.io / diagrams.net
 
-See TeamTopologies.xml in the diagrams.net folder
+See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ folder. This creates a Library with several shapes. The shapes are named - hover over a shape to see the description:
+
+![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2020-06-25--TT-drawing-shapes--diagrams_net.png)
 
 ### Currently supported
 
-* All shapes and X-As-A-Service Interaction
+* All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform) and the X-as-a-Service interaction mode
 
 ### TODO
 
-* Collaborate and Facilitate Interaction
+* Collaboration and Facilitation interaction modes
 
 ### Usage
 
-* Download the TeamToplogies.xml
+* Download _TeamToplogies.xml_ from this repository
+* Open diagrams.net in a browser
 * File -> Open Library from -> Device
-* Select the TeamTopologies.xml
+* Select the file _TeamTopologies.xml_
+
+A new shape library should appear. 
 
 ## Google Draw / Google Slides
 
