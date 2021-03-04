@@ -31,13 +31,13 @@ A new shape library should appear.
 
 ## Google Draw 
 
-Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/edit?usp=sharing> and select _File_ > _Make a copy_
+Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/copy?usp=sharing> and choose _Make a copy_
 
 Then copy/paste the shapes as needed into Google Draw or Google Slides if needed.
 
 ## Google Slides
 
-Open the template at https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31SecBYA5H1K0SmER5erLYPOn-0/edit#slide=id.p and select _File_ > _Make a copy_
+Open the template at https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31SecBYA5H1K0SmER5erLYPOn-0/copy#slide=id.p and choose _Make a copy_
 
 ## PowerPoint
 
