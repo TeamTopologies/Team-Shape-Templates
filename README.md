@@ -4,7 +4,7 @@ Templates for popular drawing and diagramming tools to represent the team types 
 
 Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
-> See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topolologies.
+> See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topologies.
 
 > Copyright © 2018-2020 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
@@ -12,13 +12,11 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ folder. This creates a Library with several shapes. The shapes are named - hover over a shape to see the description:
 
-![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2020-06-25--TT-drawing-shapes--diagrams_net.png)
+![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2021-03-04--TT-drawing-shapes--diagrams_net.png)
 
 ### Currently supported
 
 * All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform) and the X-as-a-Service interaction mode
-
-### TODO
 
 * Collaboration and Facilitation interaction modes
 
