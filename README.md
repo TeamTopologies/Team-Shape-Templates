@@ -39,7 +39,10 @@ Then copy/paste the shapes as needed into Google Draw and Google Slides.
 
 ## Miro
 
-TBC
+* Download the _team topologies.rtb_ file from this repository
+* Open Miro and click on _Upload from backup_ 
+* It creates a new board called _Restored team topologies_
+* From there you can rename the board and start using it by copy / paste the different shapes
 
 ## PowerPoint
 
