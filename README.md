@@ -22,23 +22,27 @@ See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ 
 
 ### Usage
 
-* Download _TeamToplogies.xml_ from this repository
+* Download _[TeamTopologies.xml](diagrams.net/TeamTopologies.xml)_ from this repository
 * Open diagrams.net in a browser
 * File -> Open Library from -> Device
 * Select the file _TeamTopologies.xml_
 
 A new shape library should appear. 
 
-## Google Draw / Google Slides
+## Google Draw 
 
 Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/edit?usp=sharing> and select _File_ > _Make a copy_
 
-Then copy/paste the shapes as needed into Google Draw and Google Slides.
+Then copy/paste the shapes as needed into Google Draw or Google Slides if needed.
 
-## Miro
+## Google Slides
 
-TBC
+Open the template at https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31SecBYA5H1K0SmER5erLYPOn-0/edit#slide=id.p and select _File_ > _Make a copy_
 
 ## PowerPoint
+
+Download the template from the [Team Topologies Template for modelling - PowerPoint.pptx](powerpoint/Team Topologies Template for modelling - PowerPoint.pptx) and start editing as needed
+
+## Miro
 
 TBC
