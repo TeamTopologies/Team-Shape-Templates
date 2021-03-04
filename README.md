@@ -41,7 +41,7 @@ Open the template at https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31S
 
 ## PowerPoint
 
-Download the template from the [Team Topologies Template for modelling - PowerPoint.pptx](powerpoint/Team Topologies Template for modelling - PowerPoint.pptx) and start editing as needed
+Download the template from the [Team Topologies Template for modelling - PowerPoint.pptx](powerpoint/Team%20Topologies%20Template%20for%20modelling%20-%20PowerPoint.pptx) and start editing as needed
 
 ## Miro
 
