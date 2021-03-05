@@ -22,6 +22,12 @@ See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ 
 
 ### Usage
 
+You have a couple of options, simply click the following link to pre-load the library:
+
+- [Open Draw.io with the Team Topologies Shape Libray](https://app.diagrams.net/?splash=0&ui=min&clibs=Uhttps%3A%2f%2fraw.githubusercontent.com%2fTeamTopologies%2fTeam-Shape-Templates%2fmaster%2fdiagrams.net%2fTeamTopologies.xml)
+
+Or
+
 * Download _[TeamTopologies.xml](diagrams.net/TeamTopologies.xml)_ from this repository
 * Open diagrams.net in a browser
 * File -> Open Library from -> Device
@@ -31,13 +37,13 @@ A new shape library should appear.
 
 ## Google Draw 
 
-Open the template at <https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/copy?usp=sharing> and choose _Make a copy_
+Open the template at [Team Topologies Template for modelling - Google Draw](https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/copy?usp=sharing) and choose _Make a copy_
 
 Then copy/paste the shapes as needed into Google Draw or Google Slides if needed.
 
 ## Google Slides
 
-Open the template at https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31SecBYA5H1K0SmER5erLYPOn-0/copy#slide=id.p and choose _Make a copy_
+Open the template at [Team Topologies Template for modelling - Google Slides](https://docs.google.com/presentation/d/1jEqC5PQNeK57E8zB31SecBYA5H1K0SmER5erLYPOn-0/copy#slide=id.p) and choose _Make a copy_
 
 ## PowerPoint
 
