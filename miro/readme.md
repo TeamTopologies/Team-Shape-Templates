@@ -6,4 +6,4 @@ Make any required changes and the choose _Download board backup_ from the export
 
 ![Screenshot of Exporting a Miro backup](Exporting%20a%20miro%20backup.png)
 
-The .rtb file is just a regular Zip file named. Using your preferred Zip tool, extract the files contained with the .rtb so that any individual changes to the .json files can be fully version controlled. 
+The .rtb file is just a standard zip file. Using your preferred zip tool, extract the files into this folder. This allows any individual changes to the .json files to be fully version controlled. 
