@@ -4,4 +4,4 @@ If you need to make changes to the Miro template, simply open the existing resto
 
 Make any required changes and the choose _Download board backup_ from the export menu:
 
-![Screenshot of Exporting a Miro backup](Exporting a miro backup.png)
+![Screenshot of Exporting a Miro backup](Exporting%20a%20miro%20backup.png)
