@@ -1,0 +1,8 @@
+# Ignore packages
+*.deb
+*.tar.gz
+*.zip
+*.rpm
+*.pkg
+*.nupkg
+*.AppImage
