@@ -88,7 +88,7 @@ The following images were generated using this [color blindness simulator](https
 
 |                  Normal                  |                           Deutero                            |                            Proto                             | Tritano                                                      | Monochrome                                                   |
 | :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20protanopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
+| ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
 
 ### Key differences from the shapes in the book 
 
