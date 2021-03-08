@@ -72,9 +72,9 @@ When using the team shapes to create your own diagrams there are a number of con
 - Use diagrams as a starting point for meaningful discussion, they are visuals to drive conversations around needs and evolution
 - Any diagrams you create will be a "snapshot" of your current landscape, use them to visualize and present potential issues that may need to be addressed
 
-### Designed for colour vision deficiency
+### Designed for color vision deficiency
 
-The shapes have been designed with the specific intention of being usable by everyone including those that may have a colour vision deficiency. For this reason, the following constraints should apply:
+The shapes have been designed with the specific intention of being usable by everyone including those that may have a color vision deficiency. For this reason, the following constraints should apply:
 
 - Platform teams should always have square corners 
 - Stream-aligned teams should always be horizontally aligned with rounded corners
