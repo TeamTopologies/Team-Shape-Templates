@@ -60,6 +60,8 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 - This will create a new board called _Restored Team Topologies template for modelling - Miro_
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
+See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro. 
+
 ## A note about the Team Shapes
 
 When using the team shapes to create your own diagrams there are a number of constraints that should be applied:
@@ -67,6 +69,8 @@ When using the team shapes to create your own diagrams there are a number of con
 - Team and X-as-a-Service shapes should be solid to represent their long-lived nature
 - Collaboration and Facilitation shapes should be 50% transparency to represent the more short-lived nature of the interaction 
 - Stream-aligned teams should never provide an X-as-a-Service directly
+- Use diagrams as a starting point for meaningful discussion, they are visuals to drive conversations around needs and evolution
+- Any diagrams you create will be a "snapshot" of your current landscape, use them to visualize and present potential issues that may need to be addressed
 
 ### Designed for colour vision deficiency
 
