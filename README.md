@@ -51,4 +51,7 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 
 ## Miro
 
-TBC
+- Download the latest release of the [Team Topologies Template for modelling - Miro](https://github.com/TeamTopologies/Team-Shape-Templates/releases) package
+- Open Miro and click on _Upload from backup_
+- This will create a new board called _Restored Team Topologies template for modelling - Miro_
+- Then simply rename the board and start using it by copy and pasting the different shapes as required
