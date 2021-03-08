@@ -84,6 +84,12 @@ The shapes have been designed with the specific intention of being usable by eve
 - Facilitation should be represented using a circle
 - X-as-a-Service should be represented with a triangle, with the point of the triangle indicating the direction of the service being provided 
 
+The following images were generated using this [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/):
+
+|    ![Normal](resources/Shapes%20normal.png)<br />*Normal*    | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png)<br />*Deutero* | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png)<br />*Proto* |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png)<br />*Tritano* | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png)<br />*Monochrome* |                                                              |
+
 ### Key differences from the shapes in the book 
 
 The image below is an example of the shapes you may have seen in the book. You may notice that there are some clear differences between the shapes shown above and those you may have previously seen in the book. There are a number of reasons for this which are explained below.
