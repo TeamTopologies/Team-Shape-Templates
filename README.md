@@ -99,6 +99,5 @@ The image below is an example of the shapes you may have seen in the book. You m
 | ![Book shapes example](resources/Book%20shapes%20example.png) | ![Recreated book shapes example](resources/Recreated%20book%20shapes%20example.png) |
 
 - The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold, firstly the shape defined in the book does not indicate the direction of the interaction being provided, the point of the triangle now determines this.  Secondly, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools, using a simple triangle makes this much easier.
-- The Platform team has square corners instead of rounded ones - this was a printing mistake in the book, platform teams should always have angled corners.
 - The Collaboration interaction is a parallelogram instead of a hatched square - recreating the hatching in different diagramming tools was problematic so this was changed to use a parallelogram
 - The Facilitation interaction mode is a plain circle instead of a circle with dots - recreating the dots in different diagramming tools was problematic so this was changed to use a circle
