@@ -86,9 +86,9 @@ The shapes have been designed with the specific intention of being usable by eve
 
 The following images were generated using this [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/):
 
-|                  Normal                  |                           Deutero                            |                            Proto                             | Tritano                                                      | Monochrome                                                   |
+|                  Normal                  |                            Proto                             |                           Deutero                            | Tritano                                                      | Monochrome                                                   |
 | :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
+| ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
 
 ### Key differences from the shapes in the book 
 
