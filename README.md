@@ -94,7 +94,9 @@ The following images were generated using this [color blindness simulator](https
 
 The image below is an example of the shapes you may have seen in the book. You may notice that there are some clear differences between the shapes shown above and those you may have previously seen in the book. There are a number of reasons for this which are explained below.
 
-![Screenshot of Team Topologies shape library in diagrams.net](resources/Book%20shapes%20example.png)
+|                         Book Shapes                          |                         Tool Shapes                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Book shapes example](resources/Book%20shapes%20example.png) | ![Recreated book shapes example](resources/Recreated%20book%20shapes%20example.png) |
 
 - The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold, firstly the shape defined in the book does not indicate the direction of the interaction being provided, the point of the triangle now determines this.  Secondly, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools, using a simple triangle makes this much easier.
 - The Platform team has square corners instead of rounded ones - this was a printing mistake in the book, platform teams should always have angled corners.
