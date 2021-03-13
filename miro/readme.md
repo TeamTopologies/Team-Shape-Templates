@@ -1,3 +1,12 @@
+# Miro
+
+- Download the latest release of the [Team Topologies Template for modelling - Miro](https://github.com/TeamTopologies/Team-Shape-Templates/releases) package
+- Open Miro and click on *Upload from backup*
+- This will create a new board called *Restored Team Topologies template for modelling - Miro*
+- Then simply rename the board and start using it by copy and pasting the different shapes as required
+
+See the [Miro Readme](https://github.com/conjurer-rich/Team-Shape-Templates/blob/main/miro/readme.md) for more details on how to edit the shapes for Miro.
+
 ## Making changes to the Miro templates
 
 If you need to make changes to the Miro template you will need to create an .rtb backup file containing the json files. An .rtb backup file is simply a standard zip file but with an .rtb extension. Using your preferred zip tool, package the json files into a zip named something like TeamTopologies.rtb. 
