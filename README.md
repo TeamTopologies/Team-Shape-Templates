@@ -68,7 +68,7 @@ See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ 
 
 You have a couple of options, simply click the following link to pre-load the library:
 
-- [Open Draw.io with the Team Topologies Shape Libray](https://app.diagrams.net/?splash=0&ui=min&clibs=Uhttps%3A%2f%2fraw.githubusercontent.com%2fTeamTopologies%2fTeam-Shape-Templates%2fmaster%2fdiagrams.net%2fTeamTopologies.xml)
+- [Open Diagrams.net with the Team Topologies Shape Libray](https://app.diagrams.net/?splash=0&ui=min&clibs=Uhttps%3A%2f%2fraw.githubusercontent.com%2fTeamTopologies%2fTeam-Shape-Templates%2fmaster%2fdiagrams.net%2fTeamTopologies.xml)
 
 Or
 
