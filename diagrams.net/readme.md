@@ -1,6 +1,6 @@
 # draw.io / diagrams.net
 
-See [TeamTopologies.xml](diagrams.net/TeamTopologies.xml) in the _diagrams.net_ folder. This creates a Library with several shapes. The shapes are named - hover over a shape to see the description:
+The [TeamTopologies.xml](TeamTopologies.xml) is used to create a Library with several shapes. The shapes are named - hover over a shape to see the description.
 
 #### Usage
 
@@ -10,7 +10,7 @@ You have a couple of options, simply click the following link to pre-load the li
 
 Or
 
-* Download _[TeamTopologies.xml](diagrams.net/TeamTopologies.xml)_ from this repository
+* Download _[TeamTopologies.xml](TeamTopologies.xml)_ from this repository
 * Open diagrams.net in a browser
 * File -> Open Library from -> Device
 * Select the file _TeamTopologies.xml_
