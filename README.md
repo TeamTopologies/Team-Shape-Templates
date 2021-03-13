@@ -8,7 +8,7 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 > Copyright © 2018-2021 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
-## Principals for using the shapes
+## Principles for using the shapes
 
 When using the team shapes to create your own diagrams there are a number of constraints that should be applied:
 
