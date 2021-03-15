@@ -16,7 +16,7 @@ When using the team shapes to create your own diagrams there are a number of con
 - A key aspect of Stream-aligned teams is that they have end-to-end responsibility for a flow of change to the live services/systems, with no hand-offs to other teams. There should therefore be no other team between a Stream-aligned team and their customers/users (on the right of the diagram).
 - Team and X-as-a-Service shapes should be solid to represent their long-lived nature.
 - Collaboration and Facilitation shapes should be 50% transparency to represent the more short-lived nature of the interaction. 
-- Stream-aligned teams should generally never provide an X-as-a-Service directly. Instead, data or serviecs from the Stream-aligned team should be made available "as a Service" via a platform of some kind.
+- Stream-aligned teams should generally never provide an X-as-a-Service directly. Instead, data or services from the Stream-aligned team should be made available "as a Service" via a platform of some kind.
 
 Remember these guidelines:
 
