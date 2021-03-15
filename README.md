@@ -12,11 +12,16 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 When using the team shapes to create your own diagrams there are a number of constraints that should be applied:
 
-- Team and X-as-a-Service shapes should be solid to represent their long-lived nature
-- Collaboration and Facilitation shapes should be 50% transparency to represent the more short-lived nature of the interaction 
-- Stream-aligned teams should never provide an X-as-a-Service directly
-- Use diagrams as a starting point for meaningful discussion, they are visuals to drive conversations around needs and evolution
-- Any diagrams you create will be a "snapshot" of your current landscape, use them to visualize and present potential issues that may need to be addressed
+- There is always an implied **flow of change from left to right** in the diagram (with apologies to people more familiar with a right-to-left flow!).
+- A key aspect of Stream-aligned teams is that they have end-to-end responsibility for a flow of change to the live services/systems, with no hand-offs to other teams. There should therefore be no other team between a Stream-aligned team and their customers/users (on the right of the diagram).
+- Team and X-as-a-Service shapes should be solid to represent their long-lived nature.
+- Collaboration and Facilitation shapes should be 50% transparency to represent the more short-lived nature of the interaction. 
+- Stream-aligned teams should generally never provide an X-as-a-Service directly. Instead, data or serviecs from the Stream-aligned team should be made available "as a Service" via a platform of some kind.
+
+Remember these guidelines:
+
+- Use diagrams as **a starting point for meaningful discussion**; they are visuals to drive conversations around needs and evolution.
+- Any diagrams you create will be a "snapshot" of your current landscape; use them to visualize and present potential issues that may need to be addressed.
 
 ### Designed for color vision deficiency
 
@@ -44,9 +49,9 @@ The image below is an example of the shapes you may have seen in the book. You m
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Book shapes example](resources/Book%20shapes%20example.png) | ![Recreated book shapes example](resources/Recreated%20book%20shapes%20example.png) |
 
-- The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold, firstly the shape defined in the book does not indicate the direction of the interaction being provided, the point of the triangle now determines this.  Secondly, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools, using a simple triangle makes this much easier.
-- The Collaboration interaction is a parallelogram instead of a hatched square - recreating the hatching in different diagramming tools was problematic so this was changed to use a parallelogram
-- The Facilitation interaction mode is a plain circle instead of a circle with dots - recreating the dots in different diagramming tools was problematic so this was changed to use a circle
+- The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold. First, the shape defined in the book does not indicate the direction of the interaction being provided; the point of the triangle now determines this (the triangle points towards the "customer" in the relationship).  Second, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools; using a simple triangle makes this much easier.
+- The Collaboration interaction is a parallelogram instead of a hatched square. Recreating the hatching in different diagramming tools was problematic so this was changed to use a parallelogram.
+- The Facilitation interaction mode is a plain circle instead of a circle with dots. Recreating the dots in different diagramming tools was problematic so this was changed to use a circle.
 
 ## Available Team Shapes
 
