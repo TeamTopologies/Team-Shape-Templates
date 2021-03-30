@@ -107,3 +107,34 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
 See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro. 
+
+## Contributing
+
+Here are some guidelines to follow if you would like to contribute a shape set for your favourite modelling tool:
+
+### Colors and Styles
+
+Where possible the shapes should adhere to the following scheme:
+
+| Shape Name                 | Fill (#RGB) | Fill Transparency | Outline (#RGB) | Outline Style | Outline Weight |
+| -------------------------- | :---------: | :---------------: | :------------: | :-----------: | :------------: |
+| Stream-aligned team        |   #FFEDB8   |        0%         |    #FFD966     |     Solid     |      2px       |
+| Enabling team              |   #DFBDCF   |        0%         |    #D09CB7     |     Solid     |      2px       |
+| Complicated Subsystem team |   #FFC08B   |        0%         |    #E88814     |     Solid     |      2px       |
+| Platform team              |   #B7CDF1   |        0%         |    #B7CDF1     |     Solid     |      2px       |
+| Collaboration              |   #C6BEDF   |        50%        |    #967EE2     |    Dashed     |      2px       |
+| Facilitation               |   #C9DFBE   |        50%        |    #78996B     |    Dashed     |      2px       |
+| X-as-a-Service             |   #B4B4B4   |        50%        |    #999696     |    Dashed     |      2px       |
+
+The contrast of the shapes will be better on a white background.
+
+### Shape Re-sizing
+
+The following table shows some typically re-sizing actions that may be performed by the user, any shapes created should support this type of re-sizing.
+
+| Shape Type                                                   |                           Example                            |
+| ------------------------------------------------------------ | :----------------------------------------------------------: |
+| Stream-aligned and Platform teams will typically be re-sized horizontally.<br />They may increase in size vertically to indicate the size of the team relative to others. | ![Re-sizing shapes](resources/Re-sizing%20stream-aligned%20and%20platform.png) |
+| Enabling teams are typically re-sized vertically.<br />They may increase in size horizontally to accommodate the name of the team. |   ![Re-sizing shapes](resources/Re-sizing%20enabling.png)    |
+| Complicated subsystem teams are typically re-sized both horizontally and vertically in order to accommodate the team name. | ![Re-sizing shapes](resources/Re-sizing%20complicated%20subsystem.png) |
+
