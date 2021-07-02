@@ -38,16 +38,16 @@ The shapes have been designed with the specific intention of being usable by eve
 
 The following images were generated using this [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/):
 
-|                  Normal                  |                            Proto                             |                           Deutero                            | Tritano                                                      | Monochrome                                                   |
-| :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                  Normal                  |                                   Proto                                    |                                    Deutero                                     | Tritano                                                                    | Monochrome                                                                           |
+| :--------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
 
 ### Key differences from the shapes in the book 
 
 The image below is an example of the shapes you may have seen in the book. You may notice that there are some clear differences between the shapes shown above and those you may have previously seen in the book. There are a number of reasons for this which are explained below.
 
-|                         Book Shapes                          |                         Tool Shapes                          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                          Book Shapes                          |                                     Tool Shapes                                     |
+| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | ![Book shapes example](resources/Book%20shapes%20example.png) | ![Recreated book shapes example](resources/Recreated%20book%20shapes%20example.png) |
 
 - The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold. First, the shape defined in the book does not indicate the direction of the interaction being provided; the point of the triangle now determines this (the triangle points towards the "customer" in the relationship).  Second, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools; using a simple triangle makes this much easier.
@@ -116,15 +116,15 @@ Here are some guidelines to follow if you would like to contribute a shape set f
 
 Where possible the shapes should adhere to the following scheme:
 
-| Shape Name                 | Fill (#RGB) | Fill Transparency | Outline (#RGB) | Outline Style | Outline Weight |
-| -------------------------- | :---------: | :---------------: | :------------: | :-----------: | :------------: |
-| Stream-aligned team        |   #FFEDB8   |        0%         |    #FFD966     |     Solid     |      2px       |
-| Enabling team              |   #DFBDCF   |        0%         |    #D09CB7     |     Solid     |      2px       |
-| Complicated Subsystem team |   #FFC08B   |        0%         |    #E88814     |     Solid     |      2px       |
-| Platform team              |   #B7CDF1   |        0%         |    #B7CDF1     |     Solid     |      2px       |
-| Collaboration              |   #C6BEDF   |        50%        |    #967EE2     |    Dashed     |      2px       |
-| Facilitation               |   #C9DFBE   |        50%        |    #78996B     |    Dashed     |      2px       |
-| X-as-a-Service             |   #B4B4B4   |        50%        |    #999696     |    Dashed     |      2px       |
+| Shape Name                 | Fill: HEX(#RGB) | Fill Transparency | Outline: HEX(#RGB) | Outline Style | Outline Weight |
+| -------------------------- | :-------------: | :---------------: | :----------------: | :-----------: | :------------: |
+| Stream-aligned team        |     #FFEDB8     |        0%         |      #FFD966       |     Solid     |      2px       |
+| Enabling team              |     #DFBDCF     |        0%         |      #D09CB7       |     Solid     |      2px       |
+| Complicated Subsystem team |     #FFC08B     |        0%         |      #E88814       |     Solid     |      2px       |
+| Platform team              |     #B7CDF1     |        0%         |      #6D9EEB       |     Solid     |      2px       |
+| Collaboration              |     #C6BEDF     |        50%        |      #967EE2       |    Dashed     |      2px       |
+| Facilitation               |     #C9DFBE     |        50%        |      #78996B       |    Dashed     |      2px       |
+| X-as-a-Service             |     #B4B4B4     |        50%        |      #999696       |    Dashed     |      2px       |
 
 The contrast of the shapes will be better on a white background.
 
@@ -132,9 +132,9 @@ The contrast of the shapes will be better on a white background.
 
 The following table shows some typically re-sizing actions that may be performed by the user, any shapes created should support this type of re-sizing.
 
-| Shape Type                                                   |                           Example                            |
-| ------------------------------------------------------------ | :----------------------------------------------------------: |
+| Shape Type                                                                                                                                                                |                                    Example                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------: |
 | Stream-aligned and Platform teams will typically be re-sized horizontally.<br />They may increase in size vertically to indicate the size of the team relative to others. | ![Re-sizing shapes](resources/Re-sizing%20stream-aligned%20and%20platform.png) |
-| Enabling teams are typically re-sized vertically.<br />They may increase in size horizontally to accommodate the name of the team. |   ![Re-sizing shapes](resources/Re-sizing%20enabling.png)    |
-| Complicated subsystem teams are typically re-sized both horizontally and vertically in order to accommodate the team name. | ![Re-sizing shapes](resources/Re-sizing%20complicated%20subsystem.png) |
+| Enabling teams are typically re-sized vertically.<br />They may increase in size horizontally to accommodate the name of the team.                                        |            ![Re-sizing shapes](resources/Re-sizing%20enabling.png)             |
+| Complicated subsystem teams are typically re-sized both horizontally and vertically in order to accommodate the team name.                                                |     ![Re-sizing shapes](resources/Re-sizing%20complicated%20subsystem.png)     |
 
