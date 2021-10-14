@@ -116,7 +116,11 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 - This will create a new board called _Restored Team Topologies template for modelling - Miro_
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
-See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro. 
+See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro.
+
+### Figma
+
+Open the template at [Team Topologies - Team shapes template - Figma Community](https://www.figma.com/community/file/1020627299699159564/Team-Topologies---Team-shapes-template) and choose _Duplicate_
 
 ## Contributing
 
