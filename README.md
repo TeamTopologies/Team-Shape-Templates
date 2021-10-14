@@ -1,6 +1,6 @@
 # Team Shape Templates
 
-Templates for popular drawing and diagramming tools to represent the team types and team interaction modes in Team Topologies.
+Templates for popular drawing and diagramming software tools to represent the team types and team interaction modes in Team Topologies.
 
 Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
@@ -8,7 +8,17 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 > Copyright © 2018-2021 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
-## Principles for using the shapes
+## Printed and printable shapes available
+
+Get printed, pre-cut versions of these [team modeling shapes via Agile Stationery](https://agilestationery.com/products/modeling-shapes-for-team-types-and-team-interactions). These shapes are designed by the authors of Team Topologies; they are printed on high-quality card stock, and ready-cut for immediate use. _CC BY-SA license_.
+
+<a href="https://agilestationery.com/products/modeling-shapes-for-team-types-and-team-interactions">
+  <img src="resources/Team-Topologies-modeling-shapes--Agile-Stationery.png" width="250px" alt="Photo of pre-cut printed modeling shapes" />
+</a>
+
+A self-printable [PDF version of the card team modeling shapes](https://teamtopologies.com/shop/modeling-shapes-for-team-types-and-team-interactions-pdf) is also available to download (but you will need to cut the shapes yourself using scissors or a craft knife). _CC BY-SA license_.
+
+## Principles for using the shapes - both printed and digital
 
 When using the team shapes to create your own diagrams there are a number of constraints that should be applied:
 
@@ -106,7 +116,11 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 - This will create a new board called _Restored Team Topologies template for modelling - Miro_
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
-See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro. 
+See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro.
+
+### Figma
+
+Open the template at [Team Topologies - Team shapes template - Figma Community](https://www.figma.com/community/file/1020627299699159564/Team-Topologies---Team-shapes-template) and choose _Duplicate_
 
 ## Contributing
 
