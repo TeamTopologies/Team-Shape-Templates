@@ -74,7 +74,7 @@ The following team interaction modelling shapes are available:
 
 ![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2021-03-04--TT-drawing-shapes--diagrams_net.png)
 
-### Officially Supported Team Interaction Modelling Tools
+## Officially Supported Team Interaction Modelling Tools
 
 The source code for team shapes that are officially developed and maintained by Team Topologies can be found within this repository. If you find an issue with any of the following templates please let us know or even better raise a pull request. Team shape templates are officially supported by Team Topologies for the following tools:
 
