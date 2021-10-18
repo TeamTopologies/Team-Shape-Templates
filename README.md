@@ -52,7 +52,7 @@ The following images were generated using this [color blindness simulator](https
 | :--------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![Normal](resources/Shapes%20Normal.png) | ![Dichromatic Protanopia](resources/Shapes%20Dichromatic%20Protanopia.png) | ![Dichromatic Deuteranopia](resources/Shapes%20Dichromatic%20Deuteranopia.png) | ![Dichromatic Tritanopia](resources/Shapes%20Dichromatic%20Tritanopia.png) | ![Monochromatic Achromatopsia](resources/Shapes%20Monochromatic%20Achromatopsia.png) |
 
-### Key differences from the shapes in the book 
+### Key differences from the shapes in the book
 
 The image below is an example of the shapes you may have seen in the book. You may notice that there are some clear differences between the shapes shown above and those you may have previously seen in the book. There are a number of reasons for this which are explained below.
 
@@ -66,15 +66,17 @@ The image below is an example of the shapes you may have seen in the book. You m
 
 ## Available Team Shapes
 
-#### Currently supported
+The following team interaction modelling shapes are available:
 
-* All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
-* X-as-a-Service, Collaboration and Facilitation interaction modes
-* Flow of change
+- All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
+- X-as-a-Service, Collaboration and Facilitation interaction modes
+- Flow of change
 
 ![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2021-03-04--TT-drawing-shapes--diagrams_net.png)
 
-The team shapes are currently available for the following tools:
+### Officially Supported Team Interaction Modelling Tools
+
+The source code for team shapes that are officially developed and maintained by Team Topologies can be found within this repository. If you find an issue with any of the following templates please let us know or even better raise a pull request. Team shape templates are officially supported by Team Topologies for the following tools:
 
 ### draw.io / diagrams.net
 
@@ -88,14 +90,14 @@ You have a couple of options, simply click the following link to pre-load the li
 
 Or
 
-* Download _[TeamTopologies.xml](diagrams.net/TeamTopologies.xml)_ from this repository
-* Open diagrams.net in a browser
-* File -> Open Library from -> Device
-* Select the file _TeamTopologies.xml_
+- Download _[TeamTopologies.xml](diagrams.net/TeamTopologies.xml)_ from this repository
+- Open diagrams.net in a browser
+- File -> Open Library from -> Device
+- Select the file _TeamTopologies.xml_
 
-A new shape library should appear. 
+A new shape library should appear.
 
-### Google Draw 
+### Google Draw
 
 Open the template at [Team Topologies Template for modelling - Google Draw](https://docs.google.com/drawings/d/1MxEb1bm1tez0aLaufEHUgv5AO7d577lRC1xdEtAFr1Q/copy?usp=sharing) and choose _Make a copy_
 
@@ -117,6 +119,10 @@ Download the template from the [Team Topologies Template for modelling - PowerPo
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
 See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro.
+
+## Community Supported Team Interaction Modelling Tools
+
+The team shape templates in this list have been developed and are maintained by members of the wider Team Topologies community. If you find an issue with these templates, please contact the relevant template author. Team shape templates are supported by the extended community for the following tools:
 
 ### Figma
 
