@@ -25,9 +25,9 @@ When using the team shapes to create your own diagrams there are a number of con
 - There is always an implied **flow of change from left to right** in the diagram (with apologies to people more familiar with a right-to-left flow!).
 - A key aspect of Stream-aligned teams is that they have end-to-end responsibility for a flow of change to the live services/systems, with no hand-offs to other teams. There should therefore be no other team between a Stream-aligned team and their customers/users (on the right of the diagram).
 - Team shapes should be solid to represent their long-lived nature.
-- Interaction mode shapes should be 50% transparency to represent the more short-lived nature of the interaction. 
+- Interaction mode shapes should be 50% transparency to represent the more short-lived nature of the interaction.
 - Stream-aligned teams should generally never provide an X-as-a-Service directly. Instead, data or services from the Stream-aligned team should be made available "as a Service" via a platform of some kind.
-- If an X-as-a-Service or Collaboration interaction crosses over multiple teams, it may be appropriate to use an black asterisk "*" to clarify which teams are interacting
+- If an X-as-a-Service or Collaboration interaction crosses over multiple teams, it may be appropriate to use an black asterisk "\*" to clarify which teams are interacting
 
 Remember these guidelines:
 
@@ -38,13 +38,14 @@ Remember these guidelines:
 
 The shapes have been designed with the specific intention of being usable by everyone including those that may have a color vision deficiency. For this reason, the following constraints should apply:
 
-- Platform teams should always have square corners 
+- Platform teams should always have square corners
 - Stream-aligned teams should always be horizontally aligned with rounded corners
 - Enabling teams should always be vertically aligned with rounded corners
 - Complicated subsystem teams should always be an octagon
+- Regular teams should should always be horizontally aligned with rounded corners and dotted border
 - Collaboration should be indicated using a parallelogram
 - Facilitation should be represented using a circle
-- X-as-a-Service should be represented with a triangle, with the point of the triangle indicating the direction of the service being provided 
+- X-as-a-Service should be represented with a triangle, with the point of the triangle indicating the direction of the service being provided
 
 The following images were generated using this [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/):
 
@@ -60,7 +61,7 @@ The image below is an example of the shapes you may have seen in the book. You m
 | :-----------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | ![Book shapes example](resources/Book%20shapes%20example.png) | ![Recreated book shapes example](resources/Recreated%20book%20shapes%20example.png) |
 
-- The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold. First, the shape defined in the book does not indicate the direction of the interaction being provided; the point of the triangle now determines this (the triangle points towards the "customer" in the relationship).  Second, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools; using a simple triangle makes this much easier.
+- The X-as-a-Service interaction is a grey triangle instead of two white bars joining the two teams. The reason for the difference here is two-fold. First, the shape defined in the book does not indicate the direction of the interaction being provided; the point of the triangle now determines this (the triangle points towards the "customer" in the relationship). Second, the shape representing the X-as-a-Service interaction in the book was very difficult to re-create in a number of different diagramming tools; using a simple triangle makes this much easier.
 - The Collaboration interaction is a parallelogram instead of a hatched square. Recreating the hatching in different diagramming tools was problematic so this was changed to use a parallelogram.
 - The Facilitation interaction mode is a plain circle instead of a circle with dots. Recreating the dots in different diagramming tools was problematic so this was changed to use a circle.
 
@@ -68,7 +69,7 @@ The image below is an example of the shapes you may have seen in the book. You m
 
 The following team interaction modelling shapes are available:
 
-- All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
+- All shapes for the five fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform, Regular Team)
 - X-as-a-Service, Collaboration and Facilitation interaction modes
 - Flow of change
 
@@ -142,6 +143,7 @@ Where possible the shapes should adhere to the following scheme:
 | Enabling team              |     #DFBDCF     |        0%         |      #D09CB7       |     Solid     |      2px       |
 | Complicated Subsystem team |     #FFC08B     |        0%         |      #E88814       |     Solid     |      2px       |
 | Platform team              |     #B7CDF1     |        0%         |      #6D9EEB       |     Solid     |      2px       |
+| Team                       |     #EBEBEF     |        0%         |      #9B99AF       |    Dotted     |      2px       |
 | Collaboration              |     #C6BEDF     |        50%        |      #967EE2       |    Dashed     |      2px       |
 | Facilitation               |     #C9DFBE     |        50%        |      #78996B       |    Dashed     |      2px       |
 | X-as-a-Service             |     #B4B4B4     |        50%        |      #999696       |    Dashed     |      2px       |
@@ -157,4 +159,3 @@ The following table shows some typically re-sizing actions that may be performed
 | Stream-aligned and Platform teams will typically be re-sized horizontally.<br />They may increase in size vertically to indicate the size of the team relative to others. | ![Re-sizing shapes](resources/Re-sizing%20stream-aligned%20and%20platform.png) |
 | Enabling teams are typically re-sized vertically.<br />They may increase in size horizontally to accommodate the name of the team.                                        |            ![Re-sizing shapes](resources/Re-sizing%20enabling.png)             |
 | Complicated subsystem teams are typically re-sized both horizontally and vertically in order to accommodate the team name.                                                |     ![Re-sizing shapes](resources/Re-sizing%20complicated%20subsystem.png)     |
-
