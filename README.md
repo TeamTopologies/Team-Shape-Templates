@@ -42,7 +42,7 @@ The shapes have been designed with the specific intention of being usable by eve
 - Stream-aligned teams should always be horizontally aligned with rounded corners
 - Enabling teams should always be vertically aligned with rounded corners
 - Complicated subsystem teams should always be an octagon
-- Regular teams should should always be horizontally aligned with rounded corners and dotted border
+- No team type should always be horizontally aligned with rounded corners and dotted border
 - Collaboration should be indicated using a parallelogram
 - Facilitation should be represented using a circle
 - X-as-a-Service should be represented with a triangle, with the point of the triangle indicating the direction of the service being provided
@@ -69,7 +69,8 @@ The image below is an example of the shapes you may have seen in the book. You m
 
 The following team interaction modelling shapes are available:
 
-- All shapes for the five fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform, Regular Team)
+- All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
+- No Team Type
 - X-as-a-Service, Collaboration and Facilitation interaction modes
 - Flow of change
 
@@ -143,7 +144,7 @@ Where possible the shapes should adhere to the following scheme:
 | Enabling team              |     #DFBDCF     |        0%         |      #D09CB7       |     Solid     |      2px       |
 | Complicated Subsystem team |     #FFC08B     |        0%         |      #E88814       |     Solid     |      2px       |
 | Platform team              |     #B7CDF1     |        0%         |      #6D9EEB       |     Solid     |      2px       |
-| Team                       |     #EBEBEF     |        0%         |      #9B99AF       |    Dotted     |      2px       |
+| No team type               |     #EBEBEF     |        0%         |      #9B99AF       |    Dotted     |      2px       |
 | Collaboration              |     #C6BEDF     |        50%        |      #967EE2       |    Dashed     |      2px       |
 | Facilitation               |     #C9DFBE     |        50%        |      #78996B       |    Dashed     |      2px       |
 | X-as-a-Service             |     #B4B4B4     |        50%        |      #999696       |    Dashed     |      2px       |
