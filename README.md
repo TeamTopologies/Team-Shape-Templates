@@ -70,7 +70,7 @@ The image below is an example of the shapes you may have seen in the book. You m
 The following team interaction modelling shapes are available:
 
 - All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
-- A generic team is team with no team type selected
+- A generic team is team with no team type determined
 - X-as-a-Service, Collaboration and Facilitation interaction modes
 - Flow of change
 
