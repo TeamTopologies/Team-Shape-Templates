@@ -132,7 +132,7 @@ Open the template at [Team Topologies - Team shapes template - Figma Community](
 
 ### LucidChart
 
-Open the template at [Team Topologies Template - Lucid Chart](https://lucid.app/lucidchart/ee8afe63-92f7-4e56-8e05-f3d57846caae/edit?invitationId=inv_c87d42eb-17e4-4e8c-94a7-849d9c2c919a) and create a new document based on the template.
+Open the template at [Team Topologies Template - Lucid Chart](https://lucid.app/lucidchart/bd2d52b1-7e81-46d9-a49b-c809cf1991ae/edit?invitationId=inv_578b9974-d591-4865-b572-2fedddea8488) and create a new document based on the template.
 
 ## Contributing
 
