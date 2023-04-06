@@ -126,6 +126,10 @@ See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes
 
 The team shape templates in this list have been developed and are maintained by members of the wider Team Topologies community. If you find an issue with these templates, please contact the relevant template author. Team shape templates are supported by the extended community for the following tools:
 
+### Excalidraw
+
+See the details in [excalidraw/README.md](excalidraw/README.md) for templates for use with [Excalidraw](https://excalidraw.com/).
+
 ### Figma
 
 Open the template at [Team Topologies - Team shapes template - Figma Community](https://www.figma.com/community/file/1020627299699159564/Team-Topologies---Team-shapes-template) and choose _Duplicate_
