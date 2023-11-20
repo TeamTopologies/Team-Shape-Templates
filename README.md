@@ -127,7 +127,7 @@ See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes
 
 #### Miroverse template
 
-Access the [Team Topologies template on Miroverse](https://miro.com/miroverse/team-topologies/) and click "Use Tmplate".
+Access the [Team Topologies template on Miroverse](https://miro.com/miroverse/team-topologies/) and click "Use Template".
 
 #### Miro Marketplace App
 
