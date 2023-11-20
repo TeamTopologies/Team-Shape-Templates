@@ -115,14 +115,23 @@ Open the template at [Team Topologies Template for modelling - Google Slides](ht
 
 Download the template from the [Team Topologies Template for modelling - PowerPoint](powerpoint/Team%20Topologies%20Template%20for%20modelling%20-%20PowerPoint.pptx) and start editing as needed
 
-### Miro
+### Miro 
 
+#### Standalone Miro .rtb file
 - Download the latest release of the [Team Topologies Template for modelling - Miro](https://github.com/TeamTopologies/Team-Shape-Templates/releases) package
 - Open Miro and click on _Upload from backup_
 - This will create a new board called _Restored Team Topologies template for modelling - Miro_
 - Then simply rename the board and start using it by copy and pasting the different shapes as required
 
 See the [Miro Readme](miro/readme.md) for more details on how to edit the shapes for Miro.
+
+#### Miroverse template
+
+Access the [Team Topologies template on Miroverse](https://miro.com/miroverse/team-topologies/) and click "Use Template".
+
+#### Miro Marketplace App
+
+Directly work with team shape objects using the [Team Topologies Miro App](https://miro.com/marketplace/team-topologies/) by clicking "Connect".
 
 ## Community Supported Team Interaction Modelling Tools
 
