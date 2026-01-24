@@ -154,11 +154,15 @@ Where possible the shapes should adhere to the following scheme:
 | Stream-aligned team        |     #FFEDB8     |        0%         |      #FFD966       |     Solid     |      2px       |
 | Enabling team              |     #DFBDCF     |        0%         |      #D09CB7       |     Solid     |      2px       |
 | Complicated Subsystem team |     #FFC08B     |        0%         |      #E88814       |     Solid     |      2px       |
-| Platform team              |     #B7CDF1     |        0%         |      #6D9EEB       |     Solid     |      2px       |
-| Undefined Team Type        |     #EBEBEF     |        0%         |      #9B99AF       |    Dotted     |      2px       |
+| Value Stream Grouping      |     #FFEDB8     |        0%         |      #FFD966       |     Dotted    |      2px       |
+| Platform grouping          |     #B7CDF1     |        0%         |      #6D9EEB       |     Solid     |      2px       |
 | Collaboration              |     #C6BEDF     |        50%        |      #967EE2       |    Dashed     |      2px       |
 | Facilitation               |     #C9DFBE     |        50%        |      #78996B       |    Dashed     |      2px       |
 | X-as-a-Service             |     #B4B4B4     |        50%        |      #999696       |    Dashed     |      2px       |
+| Undefined Team Type        |     #EBEBEF     |        0%         |      #9B99AF       |    Dotted     |      2px       |
+| Temporal Coupling          |     #EBEBEF     |        50%        |      #9B99AF       |    Dashed     |      2px       |
+| Handover                   |     #EBEBEF     |        50%        |      #9B99AF       |    Dashed     |      2px       |
+| Undefined Interaction      |     #EBEBEF     |        50%        |      #9B99AF       |    Dashed     |      2px       |
 
 The contrast of the shapes will be better on a white background.
 
