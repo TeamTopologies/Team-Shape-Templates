@@ -40,7 +40,6 @@ Remember these guidelines:
 
 The shapes have been designed with the specific intention of being usable by everyone including those that may have a color vision deficiency. For this reason, the following constraints should apply:
 
-- Platform teams should always have square corners
 - Stream-aligned teams should always be horizontally aligned with rounded corners
 - Enabling teams should always be vertically aligned with rounded corners
 - Complicated subsystem teams should always be an octagon
@@ -48,6 +47,12 @@ The shapes have been designed with the specific intention of being usable by eve
 - Collaboration should be indicated using a parallelogram
 - Facilitation should be represented using a circle
 - X-as-a-Service should be represented with a triangle, with the point of the triangle indicating the direction of the service being provided
+- Value Stream Groupings should be a rectangle with square corners and a dotted border
+- Platform groupings should always have square corners with a dotted border
+- Undefined Grouping should be a rectangle with square corners and a dotted border
+- Undefined interaction be a rectangle with square corners and a dashed border
+- Temporal Coupling should be a trapezoid with a dashed border
+- Handover should be a diamond with a dashed border
 
 The following images were generated using this [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/):
 
@@ -71,12 +76,14 @@ The image below is an example of the shapes you may have seen in the book. You m
 
 The following team interaction modelling shapes are available:
 
-- All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform)
+- All shapes for the four fundamental team types (Stream-aligned, Enabling, Complicated Subsystem, and Platform Grouping)
 - An undefined team type shape can be used to represent a team that currently has no team type determined
 - X-as-a-Service, Collaboration and Facilitation interaction modes
+- Supplementary interaction modes: Undefined Interaction, Temporal Coupling and Handover
+- Groupings: Value Stream Grouping, Platform Grouping and Undefined Grouping
 - Flow of change
 
-![Screenshot of Team Topologies shape library in diagrams.net](diagrams.net/2021-03-04--TT-drawing-shapes--diagrams_net.png)
+![Screenshot of Team Topologies shape library in diagrams.net](resources/v2025-11-google-draw.png)
 
 ## Officially Supported Team Interaction Modelling Tools
 
